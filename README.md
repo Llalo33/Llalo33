@@ -1,4 +1,4 @@
-### Всем привет! Меня зовут 
+### Nice to meet you
 <hr height='1px'/>
 Стэк технологий, c которыми я работаю :
 <div style=display-flex>
