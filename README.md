@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Next, Redux, React Native**
 
-- 📫 How to reach me **Telegram: @Zanggsu**
+- 📫 How to reach me **Telegram: @GLG2025**
 
 - 📄 Know about my experiences <a href="https://hh.ru/applicant/resumes/view?resume=57dab294ff0cd023960039ed1f415a32676178">hh.ru</a>
 
